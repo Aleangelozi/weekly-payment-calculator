@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658366779 source:/home/alessandro/CodeBlocksProjects/WeeklyPayCalculator/main.c
+	<stdio.h>
+	<stdlib.h>
+
